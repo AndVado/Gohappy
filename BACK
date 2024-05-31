@@ -1,0 +1,5 @@
+
+file = open("file.txt", "w")
+file.write("Пример текста в файле")
+file.close()
+
